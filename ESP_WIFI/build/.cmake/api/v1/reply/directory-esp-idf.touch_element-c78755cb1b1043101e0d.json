@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/touch_element",
+		"source" : "C:/Espressif/frameworks/esp-idf-v5.4.1/components/touch_element"
+	}
+}

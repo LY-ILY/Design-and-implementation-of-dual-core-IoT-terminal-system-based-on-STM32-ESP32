@@ -1,0 +1,2 @@
+PS C:\Users\Jay\ESP_WIFI\build>  xtensa-esp32s3-elf-addr2line -e ESP_WIFI.elf 0x420112d7 0x4200fe53 0x4200fe96 0x42010e69 0x4200e05a
+对应的

@@ -1,0 +1,52 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:/Espressif/frameworks/esp-idf-v5.4.1/",
+  "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM11",
+  "idf.toolsPathWin": "C:\\Espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-18.1.2_20240912\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=C:\\Espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+    "--compile-commands-dir=${workspaceFolder}\\build"
+  ],
+  "idf.flashType": "UART",
+  "files.associations": {
+    "protocol_examples_common.h": "c",
+    "nvs_flash.h": "c",
+    "task.h": "c",
+    "freertos.h": "c",
+    "sys.h": "c",
+    "*.inc": "c",
+    "tcp_client_v4.h": "c",
+    "uart.h": "c",
+    "mqtt.h": "c",
+    "esp_event.h": "c",
+    "mqtt_client.h": "c",
+    "tesk.h": "c",
+    "chrono": "c",
+    "functional": "c",
+    "cstdint": "c",
+    "semaphore.h": "c",
+    "esp_log.h": "c",
+    "semaphoer.h": "c",
+    "queue.h": "c",
+    "stdint.h": "c",
+    "compare": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "span": "c",
+    "semphr.h": "c",
+    "my_semaphoer.h": "c",
+    "wifi.h": "c",
+    "my_wifi.h": "c",
+    "my_mqtt.h": "c"
+  }
+}
